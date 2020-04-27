@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="QueueReceive:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QueueReceive_jar</output-path>
+    <root id="archive" name="QueueReceive.jar">
+      <element id="module-output" name="QueueReceive" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/artemis-jms-client-all-2.4.0.amq-710004-redhat-1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

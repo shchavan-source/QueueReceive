@@ -1,0 +1,1 @@
+Parameters to pass: --url (tcp://192.168.56.14:61616)?ha=true&reconnectAttempts=-1&retryInterval=5000&retryIntervalMultiplier=1.0 --user amqadm --password amqadm --queue mytest-queue-b17 --message-count 3 --thread-size 3
